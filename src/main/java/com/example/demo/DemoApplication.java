@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello Cedamp!";
+		return "Site CEDAMP em construção";
 	}
 }
